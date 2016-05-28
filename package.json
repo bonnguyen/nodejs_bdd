@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-bdd",
+  "version": "1.0.0",
+  "description": "An example of how to use BDD",
+  "main": "index.js",
+  "author": "SmartDev LLC",
+  "license": "MIT",
+  "devDependencies": {
+    "cucumber": "^0.10.3"
+  }
+}
